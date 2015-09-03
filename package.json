@@ -1,0 +1,19 @@
+{
+  "name": "model-App",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt-contrib-connect": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-watch": "*",
+    "connect-livereload": "*",
+    "grunt-contrib-copy": "*",
+    "load-grunt-tasks": "*",
+    "grunt-filerev": "*",
+    "grunt-usemin": "*",
+    "bower": "*",
+    "grunt": "*"
+  }
+}
